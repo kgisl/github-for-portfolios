@@ -2,7 +2,7 @@
 
 <a href="http://dannguyen.github.io/github-for-portfolios">![at the moma](/images/main-logo.jpg)</a>
 
-A layperson's step-by-step guide to building webpages with Github. You can visit the live tutorial (which itself was publislhed via [Github Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/)) at:
+A layperson's step-by-step guide to building webpages with Github. You can visit the live tutorial (which itself was published via [Github Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/)) at:
 
 [http://dannguyen.github.io/github-for-portfolios/](http://dannguyen.github.io/github-for-portfolios/)
 
